@@ -1,4 +1,4 @@
-<a href="https://ibb.co/87xfkYt"><img src="https://i.ibb.co/VqCz6w5/como-se-fazer-em-desenho-1.png" alt="o melhor funcionário que você pode contratar" border="0"></a>
+<a href="https://ibb.co/87xfkYt"><img width="100%" src="https://i.ibb.co/VqCz6w5/como-se-fazer-em-desenho-1.png" alt="o melhor funcionário que você pode contratar" border="100"></a>
 <center>
 <table>
     <tr>
