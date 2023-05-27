@@ -2,12 +2,12 @@
 
 # AOBA, Bão ?
 seja bem vindo ao meu repositório de projetos e atividades.
-Atuo como Dev java a 1 ano usando em conjunto o spring boot além de trabalhar com banco não sequêncial e arranhado o trabalho com filas usando rabbitMQ. O que mais faço nesse periodo é trabalhar com ferramentas de análise de dados para ajudar o time de suporte.
+Atuo como Dev java usando em conjunto o spring boot além de trabalhar com banco não sequêncial e arranhado o trabalho com filas usando rabbitMQ. O que mais faço nesse periodo é trabalhar com ferramentas de análise de dados para ajudar o time de suporte.
 
 
 ## Sobre mim:
 - Meu nome completo é Bruno Santos Roque de Oliveira
-- Tenho 21 anos (28/12/2000)
+- Nasci em 28/12/2000
 - Moro em Valinhos-SP
 - Faculdade: Bacharel em Tecnologia da informação - UNIVESP
 - 📝[Currículo](https://drive.google.com/file/d/1pdvD0_bdWd_Qi5O7OE1sjab4XKainmqv/view?usp=sharing) <br>
