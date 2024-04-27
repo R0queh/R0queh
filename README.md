@@ -2,7 +2,7 @@
 
 # AOBA, Bão ?
 seja bem vindo ao meu repositório de projetos e atividades.
-Atuo como Dev java usando em conjunto o spring boot além de trabalhar com banco não sequêncial e arranhado o trabalho com filas usando rabbitMQ. O que mais faço nesse periodo é trabalhar com ferramentas de análise de dados para ajudar o time de suporte.
+Atuo como Dev java usando em conjunto o spring boot além de trabalhar com banco não sequêncial e filas usando rabbitMQ. atualmente trabalho com o time responsável por cuidar das ferramentas de comunicação com o usuário e as avaliações da entrega por exemplo.
 
 
 ## Sobre mim:
